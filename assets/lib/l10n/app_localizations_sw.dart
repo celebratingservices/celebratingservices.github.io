@@ -241,7 +241,7 @@ class AppLocalizationsSw extends AppLocalizations {
   String get audioTab => 'Kipengele cha Sauti';
 
   @override
-  String get flick => 'Flicks';
+  String get flick => 'Spotlights';
 
   @override
   String get story => 'Story';
@@ -378,7 +378,7 @@ class AppLocalizationsSw extends AppLocalizations {
   String get tabPeople => 'Watu';
 
   @override
-  String get tabFlicks => 'Flicks';
+  String get tabFlicks => 'Spotlights';
 
   @override
   String get tabPlaces => 'Maeneo';

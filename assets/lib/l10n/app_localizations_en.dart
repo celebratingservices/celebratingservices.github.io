@@ -242,7 +242,7 @@ class AppLocalizationsEn extends AppLocalizations {
   String get audioTab => 'Audio Tab';
 
   @override
-  String get flick => 'Flicks';
+  String get flick => 'Spotlights';
 
   @override
   String get story => 'Story';
@@ -379,7 +379,7 @@ class AppLocalizationsEn extends AppLocalizations {
   String get tabPeople => 'People';
 
   @override
-  String get tabFlicks => 'Flicks';
+  String get tabFlicks => 'Spotlights';
 
   @override
   String get tabPlaces => 'Places';

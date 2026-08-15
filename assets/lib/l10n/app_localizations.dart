@@ -557,7 +557,7 @@ abstract class AppLocalizations {
   /// No description provided for @flick.
   ///
   /// In en, this message translates to:
-  /// **'Flicks'**
+  /// **'Spotlights'**
   String get flick;
 
   String get story;
@@ -823,7 +823,7 @@ abstract class AppLocalizations {
   /// No description provided for @tabFlicks.
   ///
   /// In en, this message translates to:
-  /// **'Flicks'**
+  /// **'Spotlights'**
   String get tabFlicks;
 
   /// No description provided for @tabPlaces.
